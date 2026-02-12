@@ -99,7 +99,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou e
 
 **Desenvolvido com 💙 e Python.**
 ---
-
-
-
+Você pode conferir o dashboard no seguinte link: [Análise do brasileirão série A](https://brasileirao-analytics-dashboard.onrender.com)
 
