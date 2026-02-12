@@ -75,7 +75,31 @@ Siga os passos abaixo para executar o dashboard na sua máquina:
     ```bash
     streamlit run app.py
     ```
+   ## 📂 Estrutura de Arquivos
+   ---
+
+## ⚠️ Nota Importante sobre a API
+
+Este projeto utiliza a **Tier Gratuita** da API Football-Data.org. 
+* **Limite:** 10 requisições por minuto.
+* **Cache:** O sistema utiliza `@st.cache_data` com TTL de 1 hora para evitar bloqueios e economizar requisições.
+
+---
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
+
+1.  Faça um Fork do projeto
+2.  Crie uma Branch para sua Feature (`git checkout -b feature/IncrívelFeature`)
+3.  Faça o Commit (`git commit -m 'Add some IncrívelFeature'`)
+4.  Push para a Branch (`git push origin feature/IncrívelFeature`)
+5.  Abra um Pull Request
 
 ---
 
-## 📂 Estrutura de Arquivos
+**Desenvolvido com 💙 e Python.**
+---
+
+
+
+
